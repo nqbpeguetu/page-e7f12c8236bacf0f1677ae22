@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "92abc876a6fa67b632afe640",
+  "owner": "nqbpeguetu",
+  "repo": "page-e7f12c8236bacf0f1677ae22",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e7f12c8236bacf0f1677ae22",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "40ca483bc983794d6ac21a43623ee924ffb478d8d8a97bffa969214c72aff088",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云提供优质的VPN加速服务，支持流媒体解锁和多设备连接。立即下载官方客户端，畅享高速稳定网络。",
+          "AI_DESCRIPTION": "龙猫云提供优质的VPN加速服务，支持流媒体解锁和多设备连接。立即下载官方客户端，畅享高速稳定网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --beige: #f5e8c7;\n            --green: #2e7d32;\n        }\n        body {\n            font-family: system-ui, Arial, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            background: var(--beige);\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        nav {\n            background: white;\n            padding: 1rem;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav ul {\n            list-style: none;\n            padding: 0;\n            display: flex;\n            justify-content: center;\n            gap: 2rem;\n        }\n        nav a {\n            color: var(--green);\n            text-decoration: none;\n            font-weight: 600;\n        }\n        header {\n            text-align: center;\n            padding: 4rem 1rem;\n            background: white;\n            margin-bottom: 2rem;\n            border-radius: 12px;\n        }\n        h1 {\n            font-size: 3.5rem;\n            color: var(--green);\n            margin: 0 0 1rem;\n        }\n        .subtitle {\n            font-size: 1.5rem;\n            color: #666;\n        }\n        section {\n            background: white;\n            padding: 2rem;\n            margin-bottom: 2rem;\n            border-radius: 12px;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.05);\n        }\n        h2 {\n            color: var(--green);\n            border-bottom: 2px solid var(--beige);\n            padding-bottom: 0.5rem;\n        }\n        p {\n            margin-bottom: 1rem;\n        }\n        details {\n            margin-bottom: 1rem;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1rem;\n            font-weight: 600;\n            background: var(--beige);\n            cursor: pointer;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        details[open] summary {\n            background: var(--green);\n            color: white;\n        }\n        details[open] > div {\n            padding: 1rem;\n        }\n        footer {\n            text-align: center;\n            padding: 2rem;\n            color: #666;\n            font-size: 0.9rem;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2.5rem; }\n            nav ul { gap: 1rem; flex-wrap: wrap; }\n        }\n    </style>\n\n\n    <main>\n        <nav>\n            <ul>\n                <li><a href=\"#intro\">品牌简介</a></li>\n                <li><a href=\"#usage\">使用场景</a></li>\n                <li><a href=\"#plans\">套餐选择</a></li>\n                <li><a href=\"#clients\">客户端下载</a></li>\n                <li><a href=\"#faq\">常见问题</a></li>\n            </ul>\n        </nav>\n        <header>\n            <h1>龙猫云</h1>\n            <p class=\"subtitle\">稳定VPN加速器 | 客户端下载 | 机场订阅</p>\n            <p>大标题留白空间</p>\n        </header>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>龙猫云致力于为用户提供优质的VPN加速服务，让您的网络连接更稳定、更快速。</p>\n            <p>我们专注于全球网络加速，帮助您轻松突破地域限制，畅享流畅的网络体验。</p>\n        </section>\n        <section id=\"usage\">\n            <h2>使用场景</h2>\n            <p>龙猫云适用于多种网络需求场景：</p>\n            <ul>\n                <li>流媒体平台解锁</li>\n                <li>在线游戏加速</li>\n                <li>远程办公与数据传输</li>\n                <li>隐私保护与安全上网</li>\n            </ul>\n        </section>\n        <section id=\"plans\">\n            <h2>精选套餐</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"clients\">\n            <h2>官方客户端选择</h2>\n            {{CLIENTS_HTML}}\n            <p>根据您的设备和需求，选择适合的客户端下载。</p>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>龙猫云如何使用？</summary>\n                <div>下载客户端后，按照提示连接节点即可享受加速服务。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div>支持主流操作系统和移动设备。</div>\n            </details>\n            <details>\n                <summary>如何获得节点地址？</summary>\n                <div>登录账号后，在客户端内选择线路节点。</div>\n            </details>\n            <details>\n                <summary>是否支持免费试用？</summary>\n                <div>根据不同套餐提供试用或试用期。</div>\n            </details>\n            <details>\n                <summary>遇到连接问题如何解决？</summary>\n                <div>可通过在线工单或客服支持。</div>\n            </details>\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 龙猫云 所有权利保留 | <a href=\"#faq\">隐私政策</a> | <a href=\"#faq\">服务条款</a></p>\n    </footer>\n\n",
+          "hash": "539eb993925d4e5ed5e280883188e3e470c064cbd7e4ba76757afeed2de033c4",
+          "seo": {
+            "title": "龙猫云 VPN 加速器 | 客户端下载 | 机场订阅",
+            "keywords": "龙猫云,VPN,加速器,机场,客户端下载,网络加速",
+            "description": "龙猫云提供优质的VPN加速服务，支持流媒体解锁和多设备连接。立即下载官方客户端，畅享高速稳定网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nxlxjjc.cn",
+    "host": "a.nxlxjjc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "nxlxjjc.cn",
+      "url": "https://nxlxjjc.cn/",
+      "label": "东方网络",
+      "apex": "nxlxjjc.cn",
+      "kind": null,
+      "identity": "gmnmcmrqt/page-e781e459c4fcae0aaf6790c0"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8ddd8bfc87e6a1ba973ac9679b4982974784ba19c3547af076a6ffea1b4feee4",
+    "sitemap.xml": "07df29bdd305b6fd0ec60a42deeeca132dc9fe1ed70f7219b88c3df19d454b40",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b2fa1cd378990d940b617bda1a187a47fba64d09da74b8d06bb5772d7e58d498",
+    "robots.txt": "2cbb7bf564a5bcbbb88a5ce22a2d1e2f36238b39228489f89e48596b1b949a0c",
+    "16411f5523a335bf660dccca7224607e.txt": "46296e9ab6fcc72f28e6de1008dd78149488687989808cd4f5b7b6a20add05e2"
+  },
+  "revision": "d6146e35c6a19bb6f78f11cedd9c5b952d87f2bb834a2d7d424c47085d256fb4"
+}
